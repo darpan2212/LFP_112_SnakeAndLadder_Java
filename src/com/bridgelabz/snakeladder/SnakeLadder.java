@@ -11,6 +11,15 @@ public class SnakeLadder {
 		int option = (int) Math.floor(Math.random() *3); 
 		if (option == 0) {
 			System.out.println("Player position is: " + position);
+			
+		} else if (option == 1) {
+			//System.out.println("Player in Ladder position: " + option);
+			position = position + diceNumber;
+			System.out.println("Player in Ladder position: " + position);
+			
+		} else if (option == 2) {
+			//System.out.println("Player in Snake position :" + option);
+			position = position + diceNumber; 
 		}
 		System.out.println(diceNumber);
 	}
