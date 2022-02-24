@@ -7,10 +7,12 @@ public class SnakeLadder {
 	public static final int NO_PLAY = 0;
 
 	public static int position = 0;
-	public static int totalDiceRolls = 0; //UC6 - Number of times dice rolls
+	public static int totalDiceRolls = 0; // UC6 - Number of times dice rolls
+	public static int player = 2;
 
 	public static void playerPositionMoves() {
 		while (position < 100) {
+			switchPlayer();
 			final int DICE_START_RANGE = 1;
 			final int DICE_END_RANGE = 6 - DICE_START_RANGE;
 
@@ -24,6 +26,7 @@ public class SnakeLadder {
 				System.out.println("Snake is bites....");
 			} else if (option == IS_LADDER) {
 				position += diceNumber;
+				switchPlayer();
 			} else if (option == NO_PLAY) {
 				System.out.println("NO Play");
 			}
@@ -38,12 +41,22 @@ public class SnakeLadder {
 		}
 	}
 
+	public static void switchPlayer() {
+		// UC7 - Game between two players
+		if (player == 2) {
+			player = 1;
+		} else {
+			player = 2;
+		}
+
+	}
+
 	public static void main(String[] args) {
 		System.out.println("Welcome to Snake And Ladder Game");
 		System.out.println("<--------------------------------------------->");
 		playUntilWin();
 		System.out.println("<--------------------------------------------->");
-		System.out.println("Player won game...");
+		System.out.println("Player" + player + " has won");
 		System.out.println("Total dice roll: " + totalDiceRolls);
 	}
 
