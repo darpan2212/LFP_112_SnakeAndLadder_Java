@@ -4,31 +4,49 @@ public class SnakeLadder {
 	public static final int START_POSITION = 0;
 	public static final int IS_SNAKE = 1;
 	public static final int IS_LADDER = 2;
+	public static final int NO_PLAY = 0;
 
-	public static void main(String[] args) {
-		System.out.println("Welcome to Snake And Ladder Game");
-		int position = 0;
-		final int DICE_START_RANGE = 1;
-		final int DICE_END_RANGE = 6 - DICE_START_RANGE;
+	public static int position = 0;
 
-		int diceNumber = (int) Math.floor(Math.random() * DICE_END_RANGE) + DICE_START_RANGE;
-		System.out.println("<--------------------------------------------->");
-		System.out.println("Dice Number : " + diceNumber);
-		int option = (int) Math.floor(Math.random() * 3);
-		System.out.println("<--------------------------------------------->");
-		if (option == IS_SNAKE) {
-			position -= diceNumber;
-			// UC-4
-			if (position < 0) {
-				position = START_POSITION;
+	public static void playerPositionMoves() {
+		while (position < 100) {
+			final int DICE_START_RANGE = 1;
+			final int DICE_END_RANGE = 6 - DICE_START_RANGE;
+
+			System.out.println("<--------------------------------------------->");
+			int diceNumber = (int) Math.floor(Math.random() * DICE_END_RANGE) + DICE_START_RANGE;
+			System.out.println("Dice Number : " + diceNumber);
+
+			int option = (int) Math.floor(Math.random() * 3);
+			if (option == IS_SNAKE) {
+				position -= diceNumber;
+				System.out.println("Snake is bites....");
+			} else if (option == IS_LADDER) {
+				position += diceNumber;
+			} else if (option == NO_PLAY) {
+				System.out.println("NO Play");
 			}
-			System.out.println("Player in snake position : " + position);
-		} else if (option == IS_LADDER) {
-			position += diceNumber;
-			System.out.println("Player in ladder position : " + position);
-		} else {
-			System.out.println("No Play " + position);
+
+			if (position < START_POSITION) { // UC4 - Player restarts from 0
+				position = START_POSITION;
+			} else if (position > 100) {
+				position -= diceNumber;
+			}
+			System.out.println("Player moves position: " + position);
 		}
 	}
 
+	public static void main(String[] args) {
+		System.out.println("Welcome to Snake And Ladder Game");
+		System.out.println("<--------------------------------------------->");
+		playUntilWin();
+		System.out.println("<--------------------------------------------->");
+		System.out.println("Player won game...");
+	}
+
+	public static void playUntilWin() { // UC5 - Check position is 100 or not
+		while (position != 100) {
+			playerPositionMoves();
+		}
+	}
 }
