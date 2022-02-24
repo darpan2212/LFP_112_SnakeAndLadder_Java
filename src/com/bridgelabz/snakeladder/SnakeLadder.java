@@ -7,6 +7,7 @@ public class SnakeLadder {
 	public static final int NO_PLAY = 0;
 
 	public static int position = 0;
+	public static int totalDiceRolls = 0; //UC6 - Number of times dice rolls
 
 	public static void playerPositionMoves() {
 		while (position < 100) {
@@ -32,6 +33,7 @@ public class SnakeLadder {
 			} else if (position > 100) {
 				position -= diceNumber;
 			}
+			totalDiceRolls++;
 			System.out.println("Player moves position: " + position);
 		}
 	}
@@ -42,6 +44,7 @@ public class SnakeLadder {
 		playUntilWin();
 		System.out.println("<--------------------------------------------->");
 		System.out.println("Player won game...");
+		System.out.println("Total dice roll: " + totalDiceRolls);
 	}
 
 	public static void playUntilWin() { // UC5 - Check position is 100 or not
