@@ -1,0 +1,2060 @@
+Welcome to Snake and Ladder game!!!!
+Player1 Pos : 0	Player2 Pos : 0
+------------P1 turn--------------
+Die Number : 4
+No Play Option => P1 Position : 0
+Player1 Pos : 0	Player2 Pos : 0
+------------P2 turn--------------
+Die Number : 1
+Snake Option => P2 Position : 0
+Player1 Pos : 0	Player2 Pos : 0
+------------P1 turn--------------
+Die Number : 3
+Snake Option => P1 Position : 0
+Player1 Pos : 0	Player2 Pos : 0
+------------P2 turn--------------
+Die Number : 3
+No Play Option => P2 Position : 0
+Player1 Pos : 0	Player2 Pos : 0
+------------P1 turn--------------
+Die Number : 4
+Ladder Option => P1 Position : 4
+Player1 Pos : 4	Player2 Pos : 0
+------------P1 turn--------------
+Die Number : 3
+No Play Option => P1 Position : 4
+Player1 Pos : 4	Player2 Pos : 0
+------------P2 turn--------------
+Die Number : 4
+Ladder Option => P2 Position : 4
+Player1 Pos : 4	Player2 Pos : 4
+------------P2 turn--------------
+Die Number : 5
+Snake Option => P2 Position : 0
+Player1 Pos : 4	Player2 Pos : 0
+------------P1 turn--------------
+Die Number : 2
+Snake Option => P1 Position : 2
+Player1 Pos : 2	Player2 Pos : 0
+------------P2 turn--------------
+Die Number : 2
+Snake Option => P2 Position : 0
+Player1 Pos : 2	Player2 Pos : 0
+------------P1 turn--------------
+Die Number : 4
+Snake Option => P1 Position : 0
+Player1 Pos : 0	Player2 Pos : 0
+------------P2 turn--------------
+Die Number : 1
+Snake Option => P2 Position : 0
+Player1 Pos : 0	Player2 Pos : 0
+------------P1 turn--------------
+Die Number : 1
+Ladder Option => P1 Position : 1
+Player1 Pos : 1	Player2 Pos : 0
+------------P1 turn--------------
+Die Number : 2
+Snake Option => P1 Position : 0
+Player1 Pos : 0	Player2 Pos : 0
+------------P2 turn--------------
+Die Number : 4
+Ladder Option => P2 Position : 4
+Player1 Pos : 0	Player2 Pos : 4
+------------P2 turn--------------
+Die Number : 4
+No Play Option => P2 Position : 4
+Player1 Pos : 0	Player2 Pos : 4
+------------P1 turn--------------
+Die Number : 2
+Ladder Option => P1 Position : 2
+Player1 Pos : 2	Player2 Pos : 4
+------------P1 turn--------------
+Die Number : 3
+No Play Option => P1 Position : 2
+Player1 Pos : 2	Player2 Pos : 4
+------------P2 turn--------------
+Die Number : 4
+Ladder Option => P2 Position : 8
+Player1 Pos : 2	Player2 Pos : 8
+------------P2 turn--------------
+Die Number : 4
+Ladder Option => P2 Position : 12
+Player1 Pos : 2	Player2 Pos : 12
+------------P2 turn--------------
+Die Number : 2
+No Play Option => P2 Position : 12
+Player1 Pos : 2	Player2 Pos : 12
+------------P1 turn--------------
+Die Number : 4
+Ladder Option => P1 Position : 6
+Player1 Pos : 6	Player2 Pos : 12
+------------P1 turn--------------
+Die Number : 3
+Ladder Option => P1 Position : 9
+Player1 Pos : 9	Player2 Pos : 12
+------------P1 turn--------------
+Die Number : 3
+Ladder Option => P1 Position : 12
+Player1 Pos : 12	Player2 Pos : 12
+------------P1 turn--------------
+Die Number : 2
+No Play Option => P1 Position : 12
+Player1 Pos : 12	Player2 Pos : 12
+------------P2 turn--------------
+Die Number : 2
+Ladder Option => P2 Position : 14
+Player1 Pos : 12	Player2 Pos : 14
+------------P2 turn--------------
+Die Number : 2
+No Play Option => P2 Position : 14
+Player1 Pos : 12	Player2 Pos : 14
+------------P1 turn--------------
+Die Number : 2
+No Play Option => P1 Position : 12
+Player1 Pos : 12	Player2 Pos : 14
+------------P2 turn--------------
+Die Number : 2
+No Play Option => P2 Position : 14
+Player1 Pos : 12	Player2 Pos : 14
+------------P1 turn--------------
+Die Number : 5
+Snake Option => P1 Position : 7
+Player1 Pos : 7	Player2 Pos : 14
+------------P2 turn--------------
+Die Number : 5
+No Play Option => P2 Position : 14
+Player1 Pos : 7	Player2 Pos : 14
+------------P1 turn--------------
+Die Number : 1
+Ladder Option => P1 Position : 8
+Player1 Pos : 8	Player2 Pos : 14
+------------P1 turn--------------
+Die Number : 3
+Snake Option => P1 Position : 5
+Player1 Pos : 5	Player2 Pos : 14
+------------P2 turn--------------
+Die Number : 1
+Ladder Option => P2 Position : 15
+Player1 Pos : 5	Player2 Pos : 15
+------------P2 turn--------------
+Die Number : 4
+Ladder Option => P2 Position : 19
+Player1 Pos : 5	Player2 Pos : 19
+------------P2 turn--------------
+Die Number : 1
+No Play Option => P2 Position : 19
+Player1 Pos : 5	Player2 Pos : 19
+------------P1 turn--------------
+Die Number : 3
+Ladder Option => P1 Position : 8
+Player1 Pos : 8	Player2 Pos : 19
+------------P1 turn--------------
+Die Number : 4
+Ladder Option => P1 Position : 12
+Player1 Pos : 12	Player2 Pos : 19
+------------P1 turn--------------
+Die Number : 2
+Ladder Option => P1 Position : 14
+Player1 Pos : 14	Player2 Pos : 19
+------------P1 turn--------------
+Die Number : 3
+Ladder Option => P1 Position : 17
+Player1 Pos : 17	Player2 Pos : 19
+------------P1 turn--------------
+Die Number : 3
+Ladder Option => P1 Position : 20
+Player1 Pos : 20	Player2 Pos : 19
+------------P1 turn--------------
+Die Number : 2
+No Play Option => P1 Position : 20
+Player1 Pos : 20	Player2 Pos : 19
+------------P2 turn--------------
+Die Number : 5
+No Play Option => P2 Position : 19
+Player1 Pos : 20	Player2 Pos : 19
+------------P1 turn--------------
+Die Number : 1
+No Play Option => P1 Position : 20
+Player1 Pos : 20	Player2 Pos : 19
+------------P2 turn--------------
+Die Number : 4
+Snake Option => P2 Position : 15
+Player1 Pos : 20	Player2 Pos : 15
+------------P1 turn--------------
+Die Number : 3
+No Play Option => P1 Position : 20
+Player1 Pos : 20	Player2 Pos : 15
+------------P2 turn--------------
+Die Number : 3
+Ladder Option => P2 Position : 18
+Player1 Pos : 20	Player2 Pos : 18
+------------P2 turn--------------
+Die Number : 4
+No Play Option => P2 Position : 18
+Player1 Pos : 20	Player2 Pos : 18
+------------P1 turn--------------
+Die Number : 4
+Ladder Option => P1 Position : 24
+Player1 Pos : 24	Player2 Pos : 18
+------------P1 turn--------------
+Die Number : 4
+Snake Option => P1 Position : 20
+Player1 Pos : 20	Player2 Pos : 18
+------------P2 turn--------------
+Die Number : 4
+Ladder Option => P2 Position : 22
+Player1 Pos : 20	Player2 Pos : 22
+------------P2 turn--------------
+Die Number : 4
+Ladder Option => P2 Position : 26
+Player1 Pos : 20	Player2 Pos : 26
+------------P2 turn--------------
+Die Number : 1
+Ladder Option => P2 Position : 27
+Player1 Pos : 20	Player2 Pos : 27
+------------P2 turn--------------
+Die Number : 1
+No Play Option => P2 Position : 27
+Player1 Pos : 20	Player2 Pos : 27
+------------P1 turn--------------
+Die Number : 4
+No Play Option => P1 Position : 20
+Player1 Pos : 20	Player2 Pos : 27
+------------P2 turn--------------
+Die Number : 1
+Snake Option => P2 Position : 26
+Player1 Pos : 20	Player2 Pos : 26
+------------P1 turn--------------
+Die Number : 5
+Snake Option => P1 Position : 15
+Player1 Pos : 15	Player2 Pos : 26
+------------P2 turn--------------
+Die Number : 1
+Snake Option => P2 Position : 25
+Player1 Pos : 15	Player2 Pos : 25
+------------P1 turn--------------
+Die Number : 1
+Snake Option => P1 Position : 14
+Player1 Pos : 14	Player2 Pos : 25
+------------P2 turn--------------
+Die Number : 1
+Snake Option => P2 Position : 24
+Player1 Pos : 14	Player2 Pos : 24
+------------P1 turn--------------
+Die Number : 1
+No Play Option => P1 Position : 14
+Player1 Pos : 14	Player2 Pos : 24
+------------P2 turn--------------
+Die Number : 3
+Snake Option => P2 Position : 21
+Player1 Pos : 14	Player2 Pos : 21
+------------P1 turn--------------
+Die Number : 2
+No Play Option => P1 Position : 14
+Player1 Pos : 14	Player2 Pos : 21
+------------P2 turn--------------
+Die Number : 5
+No Play Option => P2 Position : 21
+Player1 Pos : 14	Player2 Pos : 21
+------------P1 turn--------------
+Die Number : 3
+Ladder Option => P1 Position : 17
+Player1 Pos : 17	Player2 Pos : 21
+------------P1 turn--------------
+Die Number : 4
+Ladder Option => P1 Position : 21
+Player1 Pos : 21	Player2 Pos : 21
+------------P1 turn--------------
+Die Number : 3
+Snake Option => P1 Position : 18
+Player1 Pos : 18	Player2 Pos : 21
+------------P2 turn--------------
+Die Number : 1
+Snake Option => P2 Position : 20
+Player1 Pos : 18	Player2 Pos : 20
+------------P1 turn--------------
+Die Number : 3
+Ladder Option => P1 Position : 21
+Player1 Pos : 21	Player2 Pos : 20
+------------P1 turn--------------
+Die Number : 4
+Ladder Option => P1 Position : 25
+Player1 Pos : 25	Player2 Pos : 20
+------------P1 turn--------------
+Die Number : 2
+Ladder Option => P1 Position : 27
+Player1 Pos : 27	Player2 Pos : 20
+------------P1 turn--------------
+Die Number : 2
+Ladder Option => P1 Position : 29
+Player1 Pos : 29	Player2 Pos : 20
+------------P1 turn--------------
+Die Number : 3
+No Play Option => P1 Position : 29
+Player1 Pos : 29	Player2 Pos : 20
+------------P2 turn--------------
+Die Number : 2
+Ladder Option => P2 Position : 22
+Player1 Pos : 29	Player2 Pos : 22
+------------P2 turn--------------
+Die Number : 3
+Ladder Option => P2 Position : 25
+Player1 Pos : 29	Player2 Pos : 25
+------------P2 turn--------------
+Die Number : 1
+No Play Option => P2 Position : 25
+Player1 Pos : 29	Player2 Pos : 25
+------------P1 turn--------------
+Die Number : 2
+No Play Option => P1 Position : 29
+Player1 Pos : 29	Player2 Pos : 25
+------------P2 turn--------------
+Die Number : 2
+No Play Option => P2 Position : 25
+Player1 Pos : 29	Player2 Pos : 25
+------------P1 turn--------------
+Die Number : 5
+Snake Option => P1 Position : 24
+Player1 Pos : 24	Player2 Pos : 25
+------------P2 turn--------------
+Die Number : 3
+Ladder Option => P2 Position : 28
+Player1 Pos : 24	Player2 Pos : 28
+------------P2 turn--------------
+Die Number : 1
+Ladder Option => P2 Position : 29
+Player1 Pos : 24	Player2 Pos : 29
+------------P2 turn--------------
+Die Number : 3
+Ladder Option => P2 Position : 32
+Player1 Pos : 24	Player2 Pos : 32
+------------P2 turn--------------
+Die Number : 3
+No Play Option => P2 Position : 32
+Player1 Pos : 24	Player2 Pos : 32
+------------P1 turn--------------
+Die Number : 1
+Ladder Option => P1 Position : 25
+Player1 Pos : 25	Player2 Pos : 32
+------------P1 turn--------------
+Die Number : 1
+Ladder Option => P1 Position : 26
+Player1 Pos : 26	Player2 Pos : 32
+------------P1 turn--------------
+Die Number : 3
+No Play Option => P1 Position : 26
+Player1 Pos : 26	Player2 Pos : 32
+------------P2 turn--------------
+Die Number : 3
+Snake Option => P2 Position : 29
+Player1 Pos : 26	Player2 Pos : 29
+------------P1 turn--------------
+Die Number : 4
+No Play Option => P1 Position : 26
+Player1 Pos : 26	Player2 Pos : 29
+------------P2 turn--------------
+Die Number : 5
+Ladder Option => P2 Position : 34
+Player1 Pos : 26	Player2 Pos : 34
+------------P2 turn--------------
+Die Number : 5
+Snake Option => P2 Position : 29
+Player1 Pos : 26	Player2 Pos : 29
+------------P1 turn--------------
+Die Number : 3
+Ladder Option => P1 Position : 29
+Player1 Pos : 29	Player2 Pos : 29
+------------P1 turn--------------
+Die Number : 2
+No Play Option => P1 Position : 29
+Player1 Pos : 29	Player2 Pos : 29
+------------P2 turn--------------
+Die Number : 3
+No Play Option => P2 Position : 29
+Player1 Pos : 29	Player2 Pos : 29
+------------P1 turn--------------
+Die Number : 1
+Ladder Option => P1 Position : 30
+Player1 Pos : 30	Player2 Pos : 29
+------------P1 turn--------------
+Die Number : 3
+Snake Option => P1 Position : 27
+Player1 Pos : 27	Player2 Pos : 29
+------------P2 turn--------------
+Die Number : 5
+No Play Option => P2 Position : 29
+Player1 Pos : 27	Player2 Pos : 29
+------------P1 turn--------------
+Die Number : 5
+Ladder Option => P1 Position : 32
+Player1 Pos : 32	Player2 Pos : 29
+------------P1 turn--------------
+Die Number : 2
+Ladder Option => P1 Position : 34
+Player1 Pos : 34	Player2 Pos : 29
+------------P1 turn--------------
+Die Number : 1
+Ladder Option => P1 Position : 35
+Player1 Pos : 35	Player2 Pos : 29
+------------P1 turn--------------
+Die Number : 1
+Ladder Option => P1 Position : 36
+Player1 Pos : 36	Player2 Pos : 29
+------------P1 turn--------------
+Die Number : 5
+No Play Option => P1 Position : 36
+Player1 Pos : 36	Player2 Pos : 29
+------------P2 turn--------------
+Die Number : 3
+Ladder Option => P2 Position : 32
+Player1 Pos : 36	Player2 Pos : 32
+------------P2 turn--------------
+Die Number : 2
+Snake Option => P2 Position : 30
+Player1 Pos : 36	Player2 Pos : 30
+------------P1 turn--------------
+Die Number : 1
+Ladder Option => P1 Position : 37
+Player1 Pos : 37	Player2 Pos : 30
+------------P1 turn--------------
+Die Number : 2
+Snake Option => P1 Position : 35
+Player1 Pos : 35	Player2 Pos : 30
+------------P2 turn--------------
+Die Number : 5
+Snake Option => P2 Position : 25
+Player1 Pos : 35	Player2 Pos : 25
+------------P1 turn--------------
+Die Number : 2
+No Play Option => P1 Position : 35
+Player1 Pos : 35	Player2 Pos : 25
+------------P2 turn--------------
+Die Number : 1
+Snake Option => P2 Position : 24
+Player1 Pos : 35	Player2 Pos : 24
+------------P1 turn--------------
+Die Number : 3
+Snake Option => P1 Position : 32
+Player1 Pos : 32	Player2 Pos : 24
+------------P2 turn--------------
+Die Number : 5
+Ladder Option => P2 Position : 29
+Player1 Pos : 32	Player2 Pos : 29
+------------P2 turn--------------
+Die Number : 2
+Ladder Option => P2 Position : 31
+Player1 Pos : 32	Player2 Pos : 31
+------------P2 turn--------------
+Die Number : 5
+Snake Option => P2 Position : 26
+Player1 Pos : 32	Player2 Pos : 26
+------------P1 turn--------------
+Die Number : 4
+No Play Option => P1 Position : 32
+Player1 Pos : 32	Player2 Pos : 26
+------------P2 turn--------------
+Die Number : 1
+Ladder Option => P2 Position : 27
+Player1 Pos : 32	Player2 Pos : 27
+------------P2 turn--------------
+Die Number : 3
+Snake Option => P2 Position : 24
+Player1 Pos : 32	Player2 Pos : 24
+------------P1 turn--------------
+Die Number : 1
+Ladder Option => P1 Position : 33
+Player1 Pos : 33	Player2 Pos : 24
+------------P1 turn--------------
+Die Number : 2
+Snake Option => P1 Position : 31
+Player1 Pos : 31	Player2 Pos : 24
+------------P2 turn--------------
+Die Number : 4
+Ladder Option => P2 Position : 28
+Player1 Pos : 31	Player2 Pos : 28
+------------P2 turn--------------
+Die Number : 5
+Ladder Option => P2 Position : 33
+Player1 Pos : 31	Player2 Pos : 33
+------------P2 turn--------------
+Die Number : 5
+Snake Option => P2 Position : 28
+Player1 Pos : 31	Player2 Pos : 28
+------------P1 turn--------------
+Die Number : 3
+No Play Option => P1 Position : 31
+Player1 Pos : 31	Player2 Pos : 28
+------------P2 turn--------------
+Die Number : 2
+No Play Option => P2 Position : 28
+Player1 Pos : 31	Player2 Pos : 28
+------------P1 turn--------------
+Die Number : 3
+Snake Option => P1 Position : 28
+Player1 Pos : 28	Player2 Pos : 28
+------------P2 turn--------------
+Die Number : 5
+Snake Option => P2 Position : 23
+Player1 Pos : 28	Player2 Pos : 23
+------------P1 turn--------------
+Die Number : 1
+Ladder Option => P1 Position : 29
+Player1 Pos : 29	Player2 Pos : 23
+------------P1 turn--------------
+Die Number : 2
+Snake Option => P1 Position : 27
+Player1 Pos : 27	Player2 Pos : 23
+------------P2 turn--------------
+Die Number : 3
+No Play Option => P2 Position : 23
+Player1 Pos : 27	Player2 Pos : 23
+------------P1 turn--------------
+Die Number : 4
+Snake Option => P1 Position : 23
+Player1 Pos : 23	Player2 Pos : 23
+------------P2 turn--------------
+Die Number : 1
+Snake Option => P2 Position : 22
+Player1 Pos : 23	Player2 Pos : 22
+------------P1 turn--------------
+Die Number : 5
+Snake Option => P1 Position : 18
+Player1 Pos : 18	Player2 Pos : 22
+------------P2 turn--------------
+Die Number : 4
+No Play Option => P2 Position : 22
+Player1 Pos : 18	Player2 Pos : 22
+------------P1 turn--------------
+Die Number : 2
+Ladder Option => P1 Position : 20
+Player1 Pos : 20	Player2 Pos : 22
+------------P1 turn--------------
+Die Number : 4
+Ladder Option => P1 Position : 24
+Player1 Pos : 24	Player2 Pos : 22
+------------P1 turn--------------
+Die Number : 2
+Snake Option => P1 Position : 22
+Player1 Pos : 22	Player2 Pos : 22
+------------P2 turn--------------
+Die Number : 2
+No Play Option => P2 Position : 22
+Player1 Pos : 22	Player2 Pos : 22
+------------P1 turn--------------
+Die Number : 3
+Snake Option => P1 Position : 19
+Player1 Pos : 19	Player2 Pos : 22
+------------P2 turn--------------
+Die Number : 4
+No Play Option => P2 Position : 22
+Player1 Pos : 19	Player2 Pos : 22
+------------P1 turn--------------
+Die Number : 2
+Ladder Option => P1 Position : 21
+Player1 Pos : 21	Player2 Pos : 22
+------------P1 turn--------------
+Die Number : 2
+Ladder Option => P1 Position : 23
+Player1 Pos : 23	Player2 Pos : 22
+------------P1 turn--------------
+Die Number : 2
+No Play Option => P1 Position : 23
+Player1 Pos : 23	Player2 Pos : 22
+------------P2 turn--------------
+Die Number : 4
+Ladder Option => P2 Position : 26
+Player1 Pos : 23	Player2 Pos : 26
+------------P2 turn--------------
+Die Number : 4
+No Play Option => P2 Position : 26
+Player1 Pos : 23	Player2 Pos : 26
+------------P1 turn--------------
+Die Number : 3
+Snake Option => P1 Position : 20
+Player1 Pos : 20	Player2 Pos : 26
+------------P2 turn--------------
+Die Number : 5
+Ladder Option => P2 Position : 31
+Player1 Pos : 20	Player2 Pos : 31
+------------P2 turn--------------
+Die Number : 3
+Snake Option => P2 Position : 28
+Player1 Pos : 20	Player2 Pos : 28
+------------P1 turn--------------
+Die Number : 4
+Ladder Option => P1 Position : 24
+Player1 Pos : 24	Player2 Pos : 28
+------------P1 turn--------------
+Die Number : 3
+Snake Option => P1 Position : 21
+Player1 Pos : 21	Player2 Pos : 28
+------------P2 turn--------------
+Die Number : 1
+Ladder Option => P2 Position : 29
+Player1 Pos : 21	Player2 Pos : 29
+------------P2 turn--------------
+Die Number : 3
+Ladder Option => P2 Position : 32
+Player1 Pos : 21	Player2 Pos : 32
+------------P2 turn--------------
+Die Number : 5
+No Play Option => P2 Position : 32
+Player1 Pos : 21	Player2 Pos : 32
+------------P1 turn--------------
+Die Number : 4
+No Play Option => P1 Position : 21
+Player1 Pos : 21	Player2 Pos : 32
+------------P2 turn--------------
+Die Number : 3
+Snake Option => P2 Position : 29
+Player1 Pos : 21	Player2 Pos : 29
+------------P1 turn--------------
+Die Number : 1
+No Play Option => P1 Position : 21
+Player1 Pos : 21	Player2 Pos : 29
+------------P2 turn--------------
+Die Number : 1
+Snake Option => P2 Position : 28
+Player1 Pos : 21	Player2 Pos : 28
+------------P1 turn--------------
+Die Number : 4
+Ladder Option => P1 Position : 25
+Player1 Pos : 25	Player2 Pos : 28
+------------P1 turn--------------
+Die Number : 2
+Ladder Option => P1 Position : 27
+Player1 Pos : 27	Player2 Pos : 28
+------------P1 turn--------------
+Die Number : 3
+Ladder Option => P1 Position : 30
+Player1 Pos : 30	Player2 Pos : 28
+------------P1 turn--------------
+Die Number : 2
+Ladder Option => P1 Position : 32
+Player1 Pos : 32	Player2 Pos : 28
+------------P1 turn--------------
+Die Number : 5
+Ladder Option => P1 Position : 37
+Player1 Pos : 37	Player2 Pos : 28
+------------P1 turn--------------
+Die Number : 3
+Ladder Option => P1 Position : 40
+Player1 Pos : 40	Player2 Pos : 28
+------------P1 turn--------------
+Die Number : 1
+Snake Option => P1 Position : 39
+Player1 Pos : 39	Player2 Pos : 28
+------------P2 turn--------------
+Die Number : 1
+No Play Option => P2 Position : 28
+Player1 Pos : 39	Player2 Pos : 28
+------------P1 turn--------------
+Die Number : 5
+Ladder Option => P1 Position : 44
+Player1 Pos : 44	Player2 Pos : 28
+------------P1 turn--------------
+Die Number : 1
+Snake Option => P1 Position : 43
+Player1 Pos : 43	Player2 Pos : 28
+------------P2 turn--------------
+Die Number : 3
+No Play Option => P2 Position : 28
+Player1 Pos : 43	Player2 Pos : 28
+------------P1 turn--------------
+Die Number : 4
+Ladder Option => P1 Position : 47
+Player1 Pos : 47	Player2 Pos : 28
+------------P1 turn--------------
+Die Number : 1
+Ladder Option => P1 Position : 48
+Player1 Pos : 48	Player2 Pos : 28
+------------P1 turn--------------
+Die Number : 4
+No Play Option => P1 Position : 48
+Player1 Pos : 48	Player2 Pos : 28
+------------P2 turn--------------
+Die Number : 3
+Ladder Option => P2 Position : 31
+Player1 Pos : 48	Player2 Pos : 31
+------------P2 turn--------------
+Die Number : 2
+Snake Option => P2 Position : 29
+Player1 Pos : 48	Player2 Pos : 29
+------------P1 turn--------------
+Die Number : 5
+Ladder Option => P1 Position : 53
+Player1 Pos : 53	Player2 Pos : 29
+------------P1 turn--------------
+Die Number : 2
+Snake Option => P1 Position : 51
+Player1 Pos : 51	Player2 Pos : 29
+------------P2 turn--------------
+Die Number : 5
+No Play Option => P2 Position : 29
+Player1 Pos : 51	Player2 Pos : 29
+------------P1 turn--------------
+Die Number : 5
+No Play Option => P1 Position : 51
+Player1 Pos : 51	Player2 Pos : 29
+------------P2 turn--------------
+Die Number : 2
+Ladder Option => P2 Position : 31
+Player1 Pos : 51	Player2 Pos : 31
+------------P2 turn--------------
+Die Number : 3
+Snake Option => P2 Position : 28
+Player1 Pos : 51	Player2 Pos : 28
+------------P1 turn--------------
+Die Number : 1
+No Play Option => P1 Position : 51
+Player1 Pos : 51	Player2 Pos : 28
+------------P2 turn--------------
+Die Number : 5
+Snake Option => P2 Position : 23
+Player1 Pos : 51	Player2 Pos : 23
+------------P1 turn--------------
+Die Number : 3
+No Play Option => P1 Position : 51
+Player1 Pos : 51	Player2 Pos : 23
+------------P2 turn--------------
+Die Number : 4
+Snake Option => P2 Position : 19
+Player1 Pos : 51	Player2 Pos : 19
+------------P1 turn--------------
+Die Number : 3
+Ladder Option => P1 Position : 54
+Player1 Pos : 54	Player2 Pos : 19
+------------P1 turn--------------
+Die Number : 1
+Ladder Option => P1 Position : 55
+Player1 Pos : 55	Player2 Pos : 19
+------------P1 turn--------------
+Die Number : 4
+No Play Option => P1 Position : 55
+Player1 Pos : 55	Player2 Pos : 19
+------------P2 turn--------------
+Die Number : 2
+Ladder Option => P2 Position : 21
+Player1 Pos : 55	Player2 Pos : 21
+------------P2 turn--------------
+Die Number : 5
+Ladder Option => P2 Position : 26
+Player1 Pos : 55	Player2 Pos : 26
+------------P2 turn--------------
+Die Number : 3
+Snake Option => P2 Position : 23
+Player1 Pos : 55	Player2 Pos : 23
+------------P1 turn--------------
+Die Number : 4
+Ladder Option => P1 Position : 59
+Player1 Pos : 59	Player2 Pos : 23
+------------P1 turn--------------
+Die Number : 2
+No Play Option => P1 Position : 59
+Player1 Pos : 59	Player2 Pos : 23
+------------P2 turn--------------
+Die Number : 3
+No Play Option => P2 Position : 23
+Player1 Pos : 59	Player2 Pos : 23
+------------P1 turn--------------
+Die Number : 4
+Ladder Option => P1 Position : 63
+Player1 Pos : 63	Player2 Pos : 23
+------------P1 turn--------------
+Die Number : 1
+Snake Option => P1 Position : 62
+Player1 Pos : 62	Player2 Pos : 23
+------------P2 turn--------------
+Die Number : 2
+Snake Option => P2 Position : 21
+Player1 Pos : 62	Player2 Pos : 21
+------------P1 turn--------------
+Die Number : 1
+Ladder Option => P1 Position : 63
+Player1 Pos : 63	Player2 Pos : 21
+------------P1 turn--------------
+Die Number : 2
+Snake Option => P1 Position : 61
+Player1 Pos : 61	Player2 Pos : 21
+------------P2 turn--------------
+Die Number : 1
+No Play Option => P2 Position : 21
+Player1 Pos : 61	Player2 Pos : 21
+------------P1 turn--------------
+Die Number : 3
+Ladder Option => P1 Position : 64
+Player1 Pos : 64	Player2 Pos : 21
+------------P1 turn--------------
+Die Number : 5
+No Play Option => P1 Position : 64
+Player1 Pos : 64	Player2 Pos : 21
+------------P2 turn--------------
+Die Number : 4
+Snake Option => P2 Position : 17
+Player1 Pos : 64	Player2 Pos : 17
+------------P1 turn--------------
+Die Number : 2
+Ladder Option => P1 Position : 66
+Player1 Pos : 66	Player2 Pos : 17
+------------P1 turn--------------
+Die Number : 5
+Ladder Option => P1 Position : 71
+Player1 Pos : 71	Player2 Pos : 17
+------------P1 turn--------------
+Die Number : 1
+Snake Option => P1 Position : 70
+Player1 Pos : 70	Player2 Pos : 17
+------------P2 turn--------------
+Die Number : 1
+Snake Option => P2 Position : 16
+Player1 Pos : 70	Player2 Pos : 16
+------------P1 turn--------------
+Die Number : 1
+No Play Option => P1 Position : 70
+Player1 Pos : 70	Player2 Pos : 16
+------------P2 turn--------------
+Die Number : 3
+Ladder Option => P2 Position : 19
+Player1 Pos : 70	Player2 Pos : 19
+------------P2 turn--------------
+Die Number : 1
+Ladder Option => P2 Position : 20
+Player1 Pos : 70	Player2 Pos : 20
+------------P2 turn--------------
+Die Number : 1
+Ladder Option => P2 Position : 21
+Player1 Pos : 70	Player2 Pos : 21
+------------P2 turn--------------
+Die Number : 4
+Snake Option => P2 Position : 17
+Player1 Pos : 70	Player2 Pos : 17
+------------P1 turn--------------
+Die Number : 1
+No Play Option => P1 Position : 70
+Player1 Pos : 70	Player2 Pos : 17
+------------P2 turn--------------
+Die Number : 3
+No Play Option => P2 Position : 17
+Player1 Pos : 70	Player2 Pos : 17
+------------P1 turn--------------
+Die Number : 2
+No Play Option => P1 Position : 70
+Player1 Pos : 70	Player2 Pos : 17
+------------P2 turn--------------
+Die Number : 2
+Ladder Option => P2 Position : 19
+Player1 Pos : 70	Player2 Pos : 19
+------------P2 turn--------------
+Die Number : 5
+Snake Option => P2 Position : 14
+Player1 Pos : 70	Player2 Pos : 14
+------------P1 turn--------------
+Die Number : 4
+Ladder Option => P1 Position : 74
+Player1 Pos : 74	Player2 Pos : 14
+------------P1 turn--------------
+Die Number : 3
+No Play Option => P1 Position : 74
+Player1 Pos : 74	Player2 Pos : 14
+------------P2 turn--------------
+Die Number : 1
+Snake Option => P2 Position : 13
+Player1 Pos : 74	Player2 Pos : 13
+------------P1 turn--------------
+Die Number : 4
+Ladder Option => P1 Position : 78
+Player1 Pos : 78	Player2 Pos : 13
+------------P1 turn--------------
+Die Number : 1
+Snake Option => P1 Position : 77
+Player1 Pos : 77	Player2 Pos : 13
+------------P2 turn--------------
+Die Number : 2
+Ladder Option => P2 Position : 15
+Player1 Pos : 77	Player2 Pos : 15
+------------P2 turn--------------
+Die Number : 3
+Ladder Option => P2 Position : 18
+Player1 Pos : 77	Player2 Pos : 18
+------------P2 turn--------------
+Die Number : 1
+No Play Option => P2 Position : 18
+Player1 Pos : 77	Player2 Pos : 18
+------------P1 turn--------------
+Die Number : 5
+No Play Option => P1 Position : 77
+Player1 Pos : 77	Player2 Pos : 18
+------------P2 turn--------------
+Die Number : 2
+Snake Option => P2 Position : 16
+Player1 Pos : 77	Player2 Pos : 16
+------------P1 turn--------------
+Die Number : 5
+Snake Option => P1 Position : 72
+Player1 Pos : 72	Player2 Pos : 16
+------------P2 turn--------------
+Die Number : 3
+Snake Option => P2 Position : 13
+Player1 Pos : 72	Player2 Pos : 13
+------------P1 turn--------------
+Die Number : 4
+Snake Option => P1 Position : 68
+Player1 Pos : 68	Player2 Pos : 13
+------------P2 turn--------------
+Die Number : 5
+Ladder Option => P2 Position : 18
+Player1 Pos : 68	Player2 Pos : 18
+------------P2 turn--------------
+Die Number : 5
+No Play Option => P2 Position : 18
+Player1 Pos : 68	Player2 Pos : 18
+------------P1 turn--------------
+Die Number : 5
+Snake Option => P1 Position : 63
+Player1 Pos : 63	Player2 Pos : 18
+------------P2 turn--------------
+Die Number : 3
+Ladder Option => P2 Position : 21
+Player1 Pos : 63	Player2 Pos : 21
+------------P2 turn--------------
+Die Number : 5
+Ladder Option => P2 Position : 26
+Player1 Pos : 63	Player2 Pos : 26
+------------P2 turn--------------
+Die Number : 1
+No Play Option => P2 Position : 26
+Player1 Pos : 63	Player2 Pos : 26
+------------P1 turn--------------
+Die Number : 2
+Ladder Option => P1 Position : 65
+Player1 Pos : 65	Player2 Pos : 26
+------------P1 turn--------------
+Die Number : 1
+Snake Option => P1 Position : 64
+Player1 Pos : 64	Player2 Pos : 26
+------------P2 turn--------------
+Die Number : 5
+No Play Option => P2 Position : 26
+Player1 Pos : 64	Player2 Pos : 26
+------------P1 turn--------------
+Die Number : 1
+Ladder Option => P1 Position : 65
+Player1 Pos : 65	Player2 Pos : 26
+------------P1 turn--------------
+Die Number : 1
+Ladder Option => P1 Position : 66
+Player1 Pos : 66	Player2 Pos : 26
+------------P1 turn--------------
+Die Number : 2
+Ladder Option => P1 Position : 68
+Player1 Pos : 68	Player2 Pos : 26
+------------P1 turn--------------
+Die Number : 2
+Snake Option => P1 Position : 66
+Player1 Pos : 66	Player2 Pos : 26
+------------P2 turn--------------
+Die Number : 5
+Snake Option => P2 Position : 21
+Player1 Pos : 66	Player2 Pos : 21
+------------P1 turn--------------
+Die Number : 3
+Snake Option => P1 Position : 63
+Player1 Pos : 63	Player2 Pos : 21
+------------P2 turn--------------
+Die Number : 1
+Ladder Option => P2 Position : 22
+Player1 Pos : 63	Player2 Pos : 22
+------------P2 turn--------------
+Die Number : 5
+Snake Option => P2 Position : 17
+Player1 Pos : 63	Player2 Pos : 17
+------------P1 turn--------------
+Die Number : 4
+No Play Option => P1 Position : 63
+Player1 Pos : 63	Player2 Pos : 17
+------------P2 turn--------------
+Die Number : 4
+Snake Option => P2 Position : 13
+Player1 Pos : 63	Player2 Pos : 13
+------------P1 turn--------------
+Die Number : 2
+Ladder Option => P1 Position : 65
+Player1 Pos : 65	Player2 Pos : 13
+------------P1 turn--------------
+Die Number : 3
+Snake Option => P1 Position : 62
+Player1 Pos : 62	Player2 Pos : 13
+------------P2 turn--------------
+Die Number : 3
+No Play Option => P2 Position : 13
+Player1 Pos : 62	Player2 Pos : 13
+------------P1 turn--------------
+Die Number : 1
+Snake Option => P1 Position : 61
+Player1 Pos : 61	Player2 Pos : 13
+------------P2 turn--------------
+Die Number : 5
+Ladder Option => P2 Position : 18
+Player1 Pos : 61	Player2 Pos : 18
+------------P2 turn--------------
+Die Number : 5
+No Play Option => P2 Position : 18
+Player1 Pos : 61	Player2 Pos : 18
+------------P1 turn--------------
+Die Number : 1
+Snake Option => P1 Position : 60
+Player1 Pos : 60	Player2 Pos : 18
+------------P2 turn--------------
+Die Number : 4
+Snake Option => P2 Position : 14
+Player1 Pos : 60	Player2 Pos : 14
+------------P1 turn--------------
+Die Number : 4
+Ladder Option => P1 Position : 64
+Player1 Pos : 64	Player2 Pos : 14
+------------P1 turn--------------
+Die Number : 1
+No Play Option => P1 Position : 64
+Player1 Pos : 64	Player2 Pos : 14
+------------P2 turn--------------
+Die Number : 3
+Ladder Option => P2 Position : 17
+Player1 Pos : 64	Player2 Pos : 17
+------------P2 turn--------------
+Die Number : 2
+Ladder Option => P2 Position : 19
+Player1 Pos : 64	Player2 Pos : 19
+------------P2 turn--------------
+Die Number : 4
+Ladder Option => P2 Position : 23
+Player1 Pos : 64	Player2 Pos : 23
+------------P2 turn--------------
+Die Number : 1
+Snake Option => P2 Position : 22
+Player1 Pos : 64	Player2 Pos : 22
+------------P1 turn--------------
+Die Number : 1
+Ladder Option => P1 Position : 65
+Player1 Pos : 65	Player2 Pos : 22
+------------P1 turn--------------
+Die Number : 3
+Snake Option => P1 Position : 62
+Player1 Pos : 62	Player2 Pos : 22
+------------P2 turn--------------
+Die Number : 2
+Ladder Option => P2 Position : 24
+Player1 Pos : 62	Player2 Pos : 24
+------------P2 turn--------------
+Die Number : 2
+Ladder Option => P2 Position : 26
+Player1 Pos : 62	Player2 Pos : 26
+------------P2 turn--------------
+Die Number : 1
+Ladder Option => P2 Position : 27
+Player1 Pos : 62	Player2 Pos : 27
+------------P2 turn--------------
+Die Number : 3
+Ladder Option => P2 Position : 30
+Player1 Pos : 62	Player2 Pos : 30
+------------P2 turn--------------
+Die Number : 4
+Ladder Option => P2 Position : 34
+Player1 Pos : 62	Player2 Pos : 34
+------------P2 turn--------------
+Die Number : 5
+No Play Option => P2 Position : 34
+Player1 Pos : 62	Player2 Pos : 34
+------------P1 turn--------------
+Die Number : 5
+Ladder Option => P1 Position : 67
+Player1 Pos : 67	Player2 Pos : 34
+------------P1 turn--------------
+Die Number : 5
+Ladder Option => P1 Position : 72
+Player1 Pos : 72	Player2 Pos : 34
+------------P1 turn--------------
+Die Number : 2
+Ladder Option => P1 Position : 74
+Player1 Pos : 74	Player2 Pos : 34
+------------P1 turn--------------
+Die Number : 2
+Ladder Option => P1 Position : 76
+Player1 Pos : 76	Player2 Pos : 34
+------------P1 turn--------------
+Die Number : 3
+Snake Option => P1 Position : 73
+Player1 Pos : 73	Player2 Pos : 34
+------------P2 turn--------------
+Die Number : 4
+No Play Option => P2 Position : 34
+Player1 Pos : 73	Player2 Pos : 34
+------------P1 turn--------------
+Die Number : 3
+Snake Option => P1 Position : 70
+Player1 Pos : 70	Player2 Pos : 34
+------------P2 turn--------------
+Die Number : 5
+No Play Option => P2 Position : 34
+Player1 Pos : 70	Player2 Pos : 34
+------------P1 turn--------------
+Die Number : 1
+Snake Option => P1 Position : 69
+Player1 Pos : 69	Player2 Pos : 34
+------------P2 turn--------------
+Die Number : 2
+Snake Option => P2 Position : 32
+Player1 Pos : 69	Player2 Pos : 32
+------------P1 turn--------------
+Die Number : 1
+No Play Option => P1 Position : 69
+Player1 Pos : 69	Player2 Pos : 32
+------------P2 turn--------------
+Die Number : 1
+Snake Option => P2 Position : 31
+Player1 Pos : 69	Player2 Pos : 31
+------------P1 turn--------------
+Die Number : 5
+Ladder Option => P1 Position : 74
+Player1 Pos : 74	Player2 Pos : 31
+------------P1 turn--------------
+Die Number : 1
+Ladder Option => P1 Position : 75
+Player1 Pos : 75	Player2 Pos : 31
+------------P1 turn--------------
+Die Number : 2
+No Play Option => P1 Position : 75
+Player1 Pos : 75	Player2 Pos : 31
+------------P2 turn--------------
+Die Number : 3
+Ladder Option => P2 Position : 34
+Player1 Pos : 75	Player2 Pos : 34
+------------P2 turn--------------
+Die Number : 3
+Snake Option => P2 Position : 31
+Player1 Pos : 75	Player2 Pos : 31
+------------P1 turn--------------
+Die Number : 5
+No Play Option => P1 Position : 75
+Player1 Pos : 75	Player2 Pos : 31
+------------P2 turn--------------
+Die Number : 2
+No Play Option => P2 Position : 31
+Player1 Pos : 75	Player2 Pos : 31
+------------P1 turn--------------
+Die Number : 4
+Ladder Option => P1 Position : 79
+Player1 Pos : 79	Player2 Pos : 31
+------------P1 turn--------------
+Die Number : 1
+Ladder Option => P1 Position : 80
+Player1 Pos : 80	Player2 Pos : 31
+------------P1 turn--------------
+Die Number : 3
+Ladder Option => P1 Position : 83
+Player1 Pos : 83	Player2 Pos : 31
+------------P1 turn--------------
+Die Number : 1
+Snake Option => P1 Position : 82
+Player1 Pos : 82	Player2 Pos : 31
+------------P2 turn--------------
+Die Number : 1
+Ladder Option => P2 Position : 32
+Player1 Pos : 82	Player2 Pos : 32
+------------P2 turn--------------
+Die Number : 5
+Snake Option => P2 Position : 27
+Player1 Pos : 82	Player2 Pos : 27
+------------P1 turn--------------
+Die Number : 2
+Snake Option => P1 Position : 80
+Player1 Pos : 80	Player2 Pos : 27
+------------P2 turn--------------
+Die Number : 3
+No Play Option => P2 Position : 27
+Player1 Pos : 80	Player2 Pos : 27
+------------P1 turn--------------
+Die Number : 5
+Snake Option => P1 Position : 75
+Player1 Pos : 75	Player2 Pos : 27
+------------P2 turn--------------
+Die Number : 1
+Snake Option => P2 Position : 26
+Player1 Pos : 75	Player2 Pos : 26
+------------P1 turn--------------
+Die Number : 1
+No Play Option => P1 Position : 75
+Player1 Pos : 75	Player2 Pos : 26
+------------P2 turn--------------
+Die Number : 2
+No Play Option => P2 Position : 26
+Player1 Pos : 75	Player2 Pos : 26
+------------P1 turn--------------
+Die Number : 5
+No Play Option => P1 Position : 75
+Player1 Pos : 75	Player2 Pos : 26
+------------P2 turn--------------
+Die Number : 3
+Ladder Option => P2 Position : 29
+Player1 Pos : 75	Player2 Pos : 29
+------------P2 turn--------------
+Die Number : 1
+Snake Option => P2 Position : 28
+Player1 Pos : 75	Player2 Pos : 28
+------------P1 turn--------------
+Die Number : 4
+No Play Option => P1 Position : 75
+Player1 Pos : 75	Player2 Pos : 28
+------------P2 turn--------------
+Die Number : 5
+Snake Option => P2 Position : 23
+Player1 Pos : 75	Player2 Pos : 23
+------------P1 turn--------------
+Die Number : 3
+No Play Option => P1 Position : 75
+Player1 Pos : 75	Player2 Pos : 23
+------------P2 turn--------------
+Die Number : 3
+No Play Option => P2 Position : 23
+Player1 Pos : 75	Player2 Pos : 23
+------------P1 turn--------------
+Die Number : 2
+No Play Option => P1 Position : 75
+Player1 Pos : 75	Player2 Pos : 23
+------------P2 turn--------------
+Die Number : 4
+No Play Option => P2 Position : 23
+Player1 Pos : 75	Player2 Pos : 23
+------------P1 turn--------------
+Die Number : 2
+No Play Option => P1 Position : 75
+Player1 Pos : 75	Player2 Pos : 23
+------------P2 turn--------------
+Die Number : 2
+Snake Option => P2 Position : 21
+Player1 Pos : 75	Player2 Pos : 21
+------------P1 turn--------------
+Die Number : 4
+Ladder Option => P1 Position : 79
+Player1 Pos : 79	Player2 Pos : 21
+------------P1 turn--------------
+Die Number : 1
+Ladder Option => P1 Position : 80
+Player1 Pos : 80	Player2 Pos : 21
+------------P1 turn--------------
+Die Number : 4
+Snake Option => P1 Position : 76
+Player1 Pos : 76	Player2 Pos : 21
+------------P2 turn--------------
+Die Number : 1
+Ladder Option => P2 Position : 22
+Player1 Pos : 76	Player2 Pos : 22
+------------P2 turn--------------
+Die Number : 1
+Snake Option => P2 Position : 21
+Player1 Pos : 76	Player2 Pos : 21
+------------P1 turn--------------
+Die Number : 2
+Ladder Option => P1 Position : 78
+Player1 Pos : 78	Player2 Pos : 21
+------------P1 turn--------------
+Die Number : 4
+No Play Option => P1 Position : 78
+Player1 Pos : 78	Player2 Pos : 21
+------------P2 turn--------------
+Die Number : 2
+Snake Option => P2 Position : 19
+Player1 Pos : 78	Player2 Pos : 19
+------------P1 turn--------------
+Die Number : 1
+Snake Option => P1 Position : 77
+Player1 Pos : 77	Player2 Pos : 19
+------------P2 turn--------------
+Die Number : 2
+Snake Option => P2 Position : 17
+Player1 Pos : 77	Player2 Pos : 17
+------------P1 turn--------------
+Die Number : 4
+Snake Option => P1 Position : 73
+Player1 Pos : 73	Player2 Pos : 17
+------------P2 turn--------------
+Die Number : 4
+Ladder Option => P2 Position : 21
+Player1 Pos : 73	Player2 Pos : 21
+------------P2 turn--------------
+Die Number : 4
+No Play Option => P2 Position : 21
+Player1 Pos : 73	Player2 Pos : 21
+------------P1 turn--------------
+Die Number : 4
+Ladder Option => P1 Position : 77
+Player1 Pos : 77	Player2 Pos : 21
+------------P1 turn--------------
+Die Number : 2
+Snake Option => P1 Position : 75
+Player1 Pos : 75	Player2 Pos : 21
+------------P2 turn--------------
+Die Number : 4
+No Play Option => P2 Position : 21
+Player1 Pos : 75	Player2 Pos : 21
+------------P1 turn--------------
+Die Number : 5
+Ladder Option => P1 Position : 80
+Player1 Pos : 80	Player2 Pos : 21
+------------P1 turn--------------
+Die Number : 1
+Ladder Option => P1 Position : 81
+Player1 Pos : 81	Player2 Pos : 21
+------------P1 turn--------------
+Die Number : 3
+Ladder Option => P1 Position : 84
+Player1 Pos : 84	Player2 Pos : 21
+------------P1 turn--------------
+Die Number : 2
+Snake Option => P1 Position : 82
+Player1 Pos : 82	Player2 Pos : 21
+------------P2 turn--------------
+Die Number : 4
+No Play Option => P2 Position : 21
+Player1 Pos : 82	Player2 Pos : 21
+------------P1 turn--------------
+Die Number : 2
+Ladder Option => P1 Position : 84
+Player1 Pos : 84	Player2 Pos : 21
+------------P1 turn--------------
+Die Number : 3
+Snake Option => P1 Position : 81
+Player1 Pos : 81	Player2 Pos : 21
+------------P2 turn--------------
+Die Number : 5
+Ladder Option => P2 Position : 26
+Player1 Pos : 81	Player2 Pos : 26
+------------P2 turn--------------
+Die Number : 3
+No Play Option => P2 Position : 26
+Player1 Pos : 81	Player2 Pos : 26
+------------P1 turn--------------
+Die Number : 4
+Snake Option => P1 Position : 77
+Player1 Pos : 77	Player2 Pos : 26
+------------P2 turn--------------
+Die Number : 5
+Snake Option => P2 Position : 21
+Player1 Pos : 77	Player2 Pos : 21
+------------P1 turn--------------
+Die Number : 5
+Ladder Option => P1 Position : 82
+Player1 Pos : 82	Player2 Pos : 21
+------------P1 turn--------------
+Die Number : 2
+No Play Option => P1 Position : 82
+Player1 Pos : 82	Player2 Pos : 21
+------------P2 turn--------------
+Die Number : 5
+Snake Option => P2 Position : 16
+Player1 Pos : 82	Player2 Pos : 16
+------------P1 turn--------------
+Die Number : 5
+No Play Option => P1 Position : 82
+Player1 Pos : 82	Player2 Pos : 16
+------------P2 turn--------------
+Die Number : 2
+No Play Option => P2 Position : 16
+Player1 Pos : 82	Player2 Pos : 16
+------------P1 turn--------------
+Die Number : 4
+Snake Option => P1 Position : 78
+Player1 Pos : 78	Player2 Pos : 16
+------------P2 turn--------------
+Die Number : 4
+Snake Option => P2 Position : 12
+Player1 Pos : 78	Player2 Pos : 12
+------------P1 turn--------------
+Die Number : 4
+Snake Option => P1 Position : 74
+Player1 Pos : 74	Player2 Pos : 12
+------------P2 turn--------------
+Die Number : 5
+No Play Option => P2 Position : 12
+Player1 Pos : 74	Player2 Pos : 12
+------------P1 turn--------------
+Die Number : 5
+No Play Option => P1 Position : 74
+Player1 Pos : 74	Player2 Pos : 12
+------------P2 turn--------------
+Die Number : 3
+No Play Option => P2 Position : 12
+Player1 Pos : 74	Player2 Pos : 12
+------------P1 turn--------------
+Die Number : 4
+No Play Option => P1 Position : 74
+Player1 Pos : 74	Player2 Pos : 12
+------------P2 turn--------------
+Die Number : 2
+Snake Option => P2 Position : 10
+Player1 Pos : 74	Player2 Pos : 10
+------------P1 turn--------------
+Die Number : 1
+No Play Option => P1 Position : 74
+Player1 Pos : 74	Player2 Pos : 10
+------------P2 turn--------------
+Die Number : 4
+No Play Option => P2 Position : 10
+Player1 Pos : 74	Player2 Pos : 10
+------------P1 turn--------------
+Die Number : 4
+Ladder Option => P1 Position : 78
+Player1 Pos : 78	Player2 Pos : 10
+------------P1 turn--------------
+Die Number : 1
+Snake Option => P1 Position : 77
+Player1 Pos : 77	Player2 Pos : 10
+------------P2 turn--------------
+Die Number : 5
+Ladder Option => P2 Position : 15
+Player1 Pos : 77	Player2 Pos : 15
+------------P2 turn--------------
+Die Number : 2
+Snake Option => P2 Position : 13
+Player1 Pos : 77	Player2 Pos : 13
+------------P1 turn--------------
+Die Number : 2
+Snake Option => P1 Position : 75
+Player1 Pos : 75	Player2 Pos : 13
+------------P2 turn--------------
+Die Number : 1
+No Play Option => P2 Position : 13
+Player1 Pos : 75	Player2 Pos : 13
+------------P1 turn--------------
+Die Number : 4
+Ladder Option => P1 Position : 79
+Player1 Pos : 79	Player2 Pos : 13
+------------P1 turn--------------
+Die Number : 4
+No Play Option => P1 Position : 79
+Player1 Pos : 79	Player2 Pos : 13
+------------P2 turn--------------
+Die Number : 4
+Ladder Option => P2 Position : 17
+Player1 Pos : 79	Player2 Pos : 17
+------------P2 turn--------------
+Die Number : 1
+Ladder Option => P2 Position : 18
+Player1 Pos : 79	Player2 Pos : 18
+------------P2 turn--------------
+Die Number : 2
+Ladder Option => P2 Position : 20
+Player1 Pos : 79	Player2 Pos : 20
+------------P2 turn--------------
+Die Number : 1
+Ladder Option => P2 Position : 21
+Player1 Pos : 79	Player2 Pos : 21
+------------P2 turn--------------
+Die Number : 3
+Ladder Option => P2 Position : 24
+Player1 Pos : 79	Player2 Pos : 24
+------------P2 turn--------------
+Die Number : 1
+Ladder Option => P2 Position : 25
+Player1 Pos : 79	Player2 Pos : 25
+------------P2 turn--------------
+Die Number : 1
+Ladder Option => P2 Position : 26
+Player1 Pos : 79	Player2 Pos : 26
+------------P2 turn--------------
+Die Number : 4
+No Play Option => P2 Position : 26
+Player1 Pos : 79	Player2 Pos : 26
+------------P1 turn--------------
+Die Number : 2
+No Play Option => P1 Position : 79
+Player1 Pos : 79	Player2 Pos : 26
+------------P2 turn--------------
+Die Number : 5
+No Play Option => P2 Position : 26
+Player1 Pos : 79	Player2 Pos : 26
+------------P1 turn--------------
+Die Number : 4
+Ladder Option => P1 Position : 83
+Player1 Pos : 83	Player2 Pos : 26
+------------P1 turn--------------
+Die Number : 1
+No Play Option => P1 Position : 83
+Player1 Pos : 83	Player2 Pos : 26
+------------P2 turn--------------
+Die Number : 4
+Snake Option => P2 Position : 22
+Player1 Pos : 83	Player2 Pos : 22
+------------P1 turn--------------
+Die Number : 1
+Ladder Option => P1 Position : 84
+Player1 Pos : 84	Player2 Pos : 22
+------------P1 turn--------------
+Die Number : 1
+No Play Option => P1 Position : 84
+Player1 Pos : 84	Player2 Pos : 22
+------------P2 turn--------------
+Die Number : 1
+Ladder Option => P2 Position : 23
+Player1 Pos : 84	Player2 Pos : 23
+------------P2 turn--------------
+Die Number : 2
+Snake Option => P2 Position : 21
+Player1 Pos : 84	Player2 Pos : 21
+------------P1 turn--------------
+Die Number : 5
+Snake Option => P1 Position : 79
+Player1 Pos : 79	Player2 Pos : 21
+------------P2 turn--------------
+Die Number : 5
+Snake Option => P2 Position : 16
+Player1 Pos : 79	Player2 Pos : 16
+------------P1 turn--------------
+Die Number : 2
+No Play Option => P1 Position : 79
+Player1 Pos : 79	Player2 Pos : 16
+------------P2 turn--------------
+Die Number : 3
+Ladder Option => P2 Position : 19
+Player1 Pos : 79	Player2 Pos : 19
+------------P2 turn--------------
+Die Number : 3
+Snake Option => P2 Position : 16
+Player1 Pos : 79	Player2 Pos : 16
+------------P1 turn--------------
+Die Number : 3
+No Play Option => P1 Position : 79
+Player1 Pos : 79	Player2 Pos : 16
+------------P2 turn--------------
+Die Number : 3
+Ladder Option => P2 Position : 19
+Player1 Pos : 79	Player2 Pos : 19
+------------P2 turn--------------
+Die Number : 3
+No Play Option => P2 Position : 19
+Player1 Pos : 79	Player2 Pos : 19
+------------P1 turn--------------
+Die Number : 5
+No Play Option => P1 Position : 79
+Player1 Pos : 79	Player2 Pos : 19
+------------P2 turn--------------
+Die Number : 1
+Ladder Option => P2 Position : 20
+Player1 Pos : 79	Player2 Pos : 20
+------------P2 turn--------------
+Die Number : 1
+No Play Option => P2 Position : 20
+Player1 Pos : 79	Player2 Pos : 20
+------------P1 turn--------------
+Die Number : 5
+Snake Option => P1 Position : 74
+Player1 Pos : 74	Player2 Pos : 20
+------------P2 turn--------------
+Die Number : 1
+Ladder Option => P2 Position : 21
+Player1 Pos : 74	Player2 Pos : 21
+------------P2 turn--------------
+Die Number : 3
+Snake Option => P2 Position : 18
+Player1 Pos : 74	Player2 Pos : 18
+------------P1 turn--------------
+Die Number : 5
+Snake Option => P1 Position : 69
+Player1 Pos : 69	Player2 Pos : 18
+------------P2 turn--------------
+Die Number : 1
+Ladder Option => P2 Position : 19
+Player1 Pos : 69	Player2 Pos : 19
+------------P2 turn--------------
+Die Number : 3
+Ladder Option => P2 Position : 22
+Player1 Pos : 69	Player2 Pos : 22
+------------P2 turn--------------
+Die Number : 5
+No Play Option => P2 Position : 22
+Player1 Pos : 69	Player2 Pos : 22
+------------P1 turn--------------
+Die Number : 4
+No Play Option => P1 Position : 69
+Player1 Pos : 69	Player2 Pos : 22
+------------P2 turn--------------
+Die Number : 5
+No Play Option => P2 Position : 22
+Player1 Pos : 69	Player2 Pos : 22
+------------P1 turn--------------
+Die Number : 4
+Snake Option => P1 Position : 65
+Player1 Pos : 65	Player2 Pos : 22
+------------P2 turn--------------
+Die Number : 5
+Ladder Option => P2 Position : 27
+Player1 Pos : 65	Player2 Pos : 27
+------------P2 turn--------------
+Die Number : 4
+Snake Option => P2 Position : 23
+Player1 Pos : 65	Player2 Pos : 23
+------------P1 turn--------------
+Die Number : 5
+Ladder Option => P1 Position : 70
+Player1 Pos : 70	Player2 Pos : 23
+------------P1 turn--------------
+Die Number : 2
+No Play Option => P1 Position : 70
+Player1 Pos : 70	Player2 Pos : 23
+------------P2 turn--------------
+Die Number : 4
+Ladder Option => P2 Position : 27
+Player1 Pos : 70	Player2 Pos : 27
+------------P2 turn--------------
+Die Number : 1
+No Play Option => P2 Position : 27
+Player1 Pos : 70	Player2 Pos : 27
+------------P1 turn--------------
+Die Number : 1
+Snake Option => P1 Position : 69
+Player1 Pos : 69	Player2 Pos : 27
+------------P2 turn--------------
+Die Number : 3
+No Play Option => P2 Position : 27
+Player1 Pos : 69	Player2 Pos : 27
+------------P1 turn--------------
+Die Number : 3
+No Play Option => P1 Position : 69
+Player1 Pos : 69	Player2 Pos : 27
+------------P2 turn--------------
+Die Number : 5
+Snake Option => P2 Position : 22
+Player1 Pos : 69	Player2 Pos : 22
+------------P1 turn--------------
+Die Number : 1
+No Play Option => P1 Position : 69
+Player1 Pos : 69	Player2 Pos : 22
+------------P2 turn--------------
+Die Number : 5
+Ladder Option => P2 Position : 27
+Player1 Pos : 69	Player2 Pos : 27
+------------P2 turn--------------
+Die Number : 1
+No Play Option => P2 Position : 27
+Player1 Pos : 69	Player2 Pos : 27
+------------P1 turn--------------
+Die Number : 1
+No Play Option => P1 Position : 69
+Player1 Pos : 69	Player2 Pos : 27
+------------P2 turn--------------
+Die Number : 4
+No Play Option => P2 Position : 27
+Player1 Pos : 69	Player2 Pos : 27
+------------P1 turn--------------
+Die Number : 3
+Snake Option => P1 Position : 66
+Player1 Pos : 66	Player2 Pos : 27
+------------P2 turn--------------
+Die Number : 5
+No Play Option => P2 Position : 27
+Player1 Pos : 66	Player2 Pos : 27
+------------P1 turn--------------
+Die Number : 3
+Snake Option => P1 Position : 63
+Player1 Pos : 63	Player2 Pos : 27
+------------P2 turn--------------
+Die Number : 5
+No Play Option => P2 Position : 27
+Player1 Pos : 63	Player2 Pos : 27
+------------P1 turn--------------
+Die Number : 4
+Ladder Option => P1 Position : 67
+Player1 Pos : 67	Player2 Pos : 27
+------------P1 turn--------------
+Die Number : 1
+Ladder Option => P1 Position : 68
+Player1 Pos : 68	Player2 Pos : 27
+------------P1 turn--------------
+Die Number : 1
+No Play Option => P1 Position : 68
+Player1 Pos : 68	Player2 Pos : 27
+------------P2 turn--------------
+Die Number : 3
+No Play Option => P2 Position : 27
+Player1 Pos : 68	Player2 Pos : 27
+------------P1 turn--------------
+Die Number : 1
+No Play Option => P1 Position : 68
+Player1 Pos : 68	Player2 Pos : 27
+------------P2 turn--------------
+Die Number : 5
+No Play Option => P2 Position : 27
+Player1 Pos : 68	Player2 Pos : 27
+------------P1 turn--------------
+Die Number : 1
+Snake Option => P1 Position : 67
+Player1 Pos : 67	Player2 Pos : 27
+------------P2 turn--------------
+Die Number : 1
+No Play Option => P2 Position : 27
+Player1 Pos : 67	Player2 Pos : 27
+------------P1 turn--------------
+Die Number : 2
+Snake Option => P1 Position : 65
+Player1 Pos : 65	Player2 Pos : 27
+------------P2 turn--------------
+Die Number : 2
+Ladder Option => P2 Position : 29
+Player1 Pos : 65	Player2 Pos : 29
+------------P2 turn--------------
+Die Number : 5
+Ladder Option => P2 Position : 34
+Player1 Pos : 65	Player2 Pos : 34
+------------P2 turn--------------
+Die Number : 1
+No Play Option => P2 Position : 34
+Player1 Pos : 65	Player2 Pos : 34
+------------P1 turn--------------
+Die Number : 4
+Ladder Option => P1 Position : 69
+Player1 Pos : 69	Player2 Pos : 34
+------------P1 turn--------------
+Die Number : 1
+Ladder Option => P1 Position : 70
+Player1 Pos : 70	Player2 Pos : 34
+------------P1 turn--------------
+Die Number : 4
+Ladder Option => P1 Position : 74
+Player1 Pos : 74	Player2 Pos : 34
+------------P1 turn--------------
+Die Number : 1
+Ladder Option => P1 Position : 75
+Player1 Pos : 75	Player2 Pos : 34
+------------P1 turn--------------
+Die Number : 2
+Ladder Option => P1 Position : 77
+Player1 Pos : 77	Player2 Pos : 34
+------------P1 turn--------------
+Die Number : 3
+No Play Option => P1 Position : 77
+Player1 Pos : 77	Player2 Pos : 34
+------------P2 turn--------------
+Die Number : 4
+Snake Option => P2 Position : 30
+Player1 Pos : 77	Player2 Pos : 30
+------------P1 turn--------------
+Die Number : 5
+Ladder Option => P1 Position : 82
+Player1 Pos : 82	Player2 Pos : 30
+------------P1 turn--------------
+Die Number : 4
+Snake Option => P1 Position : 78
+Player1 Pos : 78	Player2 Pos : 30
+------------P2 turn--------------
+Die Number : 2
+No Play Option => P2 Position : 30
+Player1 Pos : 78	Player2 Pos : 30
+------------P1 turn--------------
+Die Number : 1
+Snake Option => P1 Position : 77
+Player1 Pos : 77	Player2 Pos : 30
+------------P2 turn--------------
+Die Number : 2
+No Play Option => P2 Position : 30
+Player1 Pos : 77	Player2 Pos : 30
+------------P1 turn--------------
+Die Number : 5
+No Play Option => P1 Position : 77
+Player1 Pos : 77	Player2 Pos : 30
+------------P2 turn--------------
+Die Number : 1
+Snake Option => P2 Position : 29
+Player1 Pos : 77	Player2 Pos : 29
+------------P1 turn--------------
+Die Number : 1
+Ladder Option => P1 Position : 78
+Player1 Pos : 78	Player2 Pos : 29
+------------P1 turn--------------
+Die Number : 5
+No Play Option => P1 Position : 78
+Player1 Pos : 78	Player2 Pos : 29
+------------P2 turn--------------
+Die Number : 3
+No Play Option => P2 Position : 29
+Player1 Pos : 78	Player2 Pos : 29
+------------P1 turn--------------
+Die Number : 2
+No Play Option => P1 Position : 78
+Player1 Pos : 78	Player2 Pos : 29
+------------P2 turn--------------
+Die Number : 1
+Snake Option => P2 Position : 28
+Player1 Pos : 78	Player2 Pos : 28
+------------P1 turn--------------
+Die Number : 3
+Ladder Option => P1 Position : 81
+Player1 Pos : 81	Player2 Pos : 28
+------------P1 turn--------------
+Die Number : 4
+Snake Option => P1 Position : 77
+Player1 Pos : 77	Player2 Pos : 28
+------------P2 turn--------------
+Die Number : 1
+No Play Option => P2 Position : 28
+Player1 Pos : 77	Player2 Pos : 28
+------------P1 turn--------------
+Die Number : 1
+Snake Option => P1 Position : 76
+Player1 Pos : 76	Player2 Pos : 28
+------------P2 turn--------------
+Die Number : 2
+No Play Option => P2 Position : 28
+Player1 Pos : 76	Player2 Pos : 28
+------------P1 turn--------------
+Die Number : 3
+Ladder Option => P1 Position : 79
+Player1 Pos : 79	Player2 Pos : 28
+------------P1 turn--------------
+Die Number : 5
+Ladder Option => P1 Position : 84
+Player1 Pos : 84	Player2 Pos : 28
+------------P1 turn--------------
+Die Number : 5
+Ladder Option => P1 Position : 89
+Player1 Pos : 89	Player2 Pos : 28
+------------P1 turn--------------
+Die Number : 3
+Ladder Option => P1 Position : 92
+Player1 Pos : 92	Player2 Pos : 28
+------------P1 turn--------------
+Die Number : 1
+Ladder Option => P1 Position : 93
+Player1 Pos : 93	Player2 Pos : 28
+------------P1 turn--------------
+Die Number : 5
+No Play Option => P1 Position : 93
+Player1 Pos : 93	Player2 Pos : 28
+------------P2 turn--------------
+Die Number : 3
+No Play Option => P2 Position : 28
+Player1 Pos : 93	Player2 Pos : 28
+------------P1 turn--------------
+Die Number : 1
+Snake Option => P1 Position : 92
+Player1 Pos : 92	Player2 Pos : 28
+------------P2 turn--------------
+Die Number : 2
+No Play Option => P2 Position : 28
+Player1 Pos : 92	Player2 Pos : 28
+------------P1 turn--------------
+Die Number : 2
+Snake Option => P1 Position : 90
+Player1 Pos : 90	Player2 Pos : 28
+------------P2 turn--------------
+Die Number : 1
+Ladder Option => P2 Position : 29
+Player1 Pos : 90	Player2 Pos : 29
+------------P2 turn--------------
+Die Number : 4
+No Play Option => P2 Position : 29
+Player1 Pos : 90	Player2 Pos : 29
+------------P1 turn--------------
+Die Number : 5
+No Play Option => P1 Position : 90
+Player1 Pos : 90	Player2 Pos : 29
+------------P2 turn--------------
+Die Number : 5
+Snake Option => P2 Position : 24
+Player1 Pos : 90	Player2 Pos : 24
+------------P1 turn--------------
+Die Number : 2
+Ladder Option => P1 Position : 92
+Player1 Pos : 92	Player2 Pos : 24
+------------P1 turn--------------
+Die Number : 3
+No Play Option => P1 Position : 92
+Player1 Pos : 92	Player2 Pos : 24
+------------P2 turn--------------
+Die Number : 4
+Ladder Option => P2 Position : 28
+Player1 Pos : 92	Player2 Pos : 28
+------------P2 turn--------------
+Die Number : 2
+Ladder Option => P2 Position : 30
+Player1 Pos : 92	Player2 Pos : 30
+------------P2 turn--------------
+Die Number : 2
+Ladder Option => P2 Position : 32
+Player1 Pos : 92	Player2 Pos : 32
+------------P2 turn--------------
+Die Number : 4
+Snake Option => P2 Position : 28
+Player1 Pos : 92	Player2 Pos : 28
+------------P1 turn--------------
+Die Number : 2
+Ladder Option => P1 Position : 94
+Player1 Pos : 94	Player2 Pos : 28
+------------P1 turn--------------
+Die Number : 4
+Snake Option => P1 Position : 90
+Player1 Pos : 90	Player2 Pos : 28
+------------P2 turn--------------
+Die Number : 2
+No Play Option => P2 Position : 28
+Player1 Pos : 90	Player2 Pos : 28
+------------P1 turn--------------
+Die Number : 3
+Ladder Option => P1 Position : 93
+Player1 Pos : 93	Player2 Pos : 28
+------------P1 turn--------------
+Die Number : 5
+No Play Option => P1 Position : 93
+Player1 Pos : 93	Player2 Pos : 28
+------------P2 turn--------------
+Die Number : 4
+Ladder Option => P2 Position : 32
+Player1 Pos : 93	Player2 Pos : 32
+------------P2 turn--------------
+Die Number : 1
+Snake Option => P2 Position : 31
+Player1 Pos : 93	Player2 Pos : 31
+------------P1 turn--------------
+Die Number : 3
+No Play Option => P1 Position : 93
+Player1 Pos : 93	Player2 Pos : 31
+------------P2 turn--------------
+Die Number : 3
+Ladder Option => P2 Position : 34
+Player1 Pos : 93	Player2 Pos : 34
+------------P2 turn--------------
+Die Number : 2
+Snake Option => P2 Position : 32
+Player1 Pos : 93	Player2 Pos : 32
+------------P1 turn--------------
+Die Number : 4
+Ladder Option => P1 Position : 97
+Player1 Pos : 97	Player2 Pos : 32
+------------P1 turn--------------
+Die Number : 3
+Snake Option => P1 Position : 94
+Player1 Pos : 94	Player2 Pos : 32
+------------P2 turn--------------
+Die Number : 4
+No Play Option => P2 Position : 32
+Player1 Pos : 94	Player2 Pos : 32
+------------P1 turn--------------
+Die Number : 4
+No Play Option => P1 Position : 94
+Player1 Pos : 94	Player2 Pos : 32
+------------P2 turn--------------
+Die Number : 5
+Snake Option => P2 Position : 27
+Player1 Pos : 94	Player2 Pos : 27
+------------P1 turn--------------
+Die Number : 5
+Ladder Option => P1 Position : 99
+Player1 Pos : 99	Player2 Pos : 27
+------------P1 turn--------------
+Die Number : 1
+No Play Option => P1 Position : 99
+Player1 Pos : 99	Player2 Pos : 27
+------------P2 turn--------------
+Die Number : 2
+Snake Option => P2 Position : 25
+Player1 Pos : 99	Player2 Pos : 25
+------------P1 turn--------------
+Die Number : 5
+No Play Option => P1 Position : 99
+Player1 Pos : 99	Player2 Pos : 25
+------------P2 turn--------------
+Die Number : 3
+No Play Option => P2 Position : 25
+Player1 Pos : 99	Player2 Pos : 25
+------------P1 turn--------------
+Die Number : 2
+No Play Option => P1 Position : 99
+Player1 Pos : 99	Player2 Pos : 25
+------------P2 turn--------------
+Die Number : 1
+Snake Option => P2 Position : 24
+Player1 Pos : 99	Player2 Pos : 24
+------------P1 turn--------------
+Die Number : 3
+Snake Option => P1 Position : 96
+Player1 Pos : 96	Player2 Pos : 24
+------------P2 turn--------------
+Die Number : 5
+No Play Option => P2 Position : 24
+Player1 Pos : 96	Player2 Pos : 24
+------------P1 turn--------------
+Die Number : 4
+No Play Option => P1 Position : 96
+Player1 Pos : 96	Player2 Pos : 24
+------------P2 turn--------------
+Die Number : 2
+Snake Option => P2 Position : 22
+Player1 Pos : 96	Player2 Pos : 22
+------------P1 turn--------------
+Die Number : 4
+No Play Option => P1 Position : 96
+Player1 Pos : 96	Player2 Pos : 22
+------------P2 turn--------------
+Die Number : 5
+No Play Option => P2 Position : 22
+Player1 Pos : 96	Player2 Pos : 22
+------------P1 turn--------------
+Die Number : 2
+Ladder Option => P1 Position : 98
+Player1 Pos : 98	Player2 Pos : 22
+------------P1 turn--------------
+Die Number : 4
+Ladder Option => P1 Position : 98
+Player1 Pos : 98	Player2 Pos : 22
+------------P1 turn--------------
+Die Number : 3
+No Play Option => P1 Position : 98
+Player1 Pos : 98	Player2 Pos : 22
+------------P2 turn--------------
+Die Number : 1
+Snake Option => P2 Position : 21
+Player1 Pos : 98	Player2 Pos : 21
+------------P1 turn--------------
+Die Number : 1
+Ladder Option => P1 Position : 99
+Player1 Pos : 99	Player2 Pos : 21
+------------P1 turn--------------
+Die Number : 4
+No Play Option => P1 Position : 99
+Player1 Pos : 99	Player2 Pos : 21
+------------P2 turn--------------
+Die Number : 4
+Ladder Option => P2 Position : 25
+Player1 Pos : 99	Player2 Pos : 25
+------------P2 turn--------------
+Die Number : 3
+No Play Option => P2 Position : 25
+Player1 Pos : 99	Player2 Pos : 25
+------------P1 turn--------------
+Die Number : 4
+Ladder Option => P1 Position : 99
+Player1 Pos : 99	Player2 Pos : 25
+------------P1 turn--------------
+Die Number : 2
+Ladder Option => P1 Position : 99
+Player1 Pos : 99	Player2 Pos : 25
+------------P1 turn--------------
+Die Number : 3
+No Play Option => P1 Position : 99
+Player1 Pos : 99	Player2 Pos : 25
+------------P2 turn--------------
+Die Number : 1
+No Play Option => P2 Position : 25
+Player1 Pos : 99	Player2 Pos : 25
+------------P1 turn--------------
+Die Number : 2
+Snake Option => P1 Position : 97
+Player1 Pos : 97	Player2 Pos : 25
+------------P2 turn--------------
+Die Number : 1
+No Play Option => P2 Position : 25
+Player1 Pos : 97	Player2 Pos : 25
+------------P1 turn--------------
+Die Number : 3
+Ladder Option => P1 Position : 100
+Number of Rolling : 514
+Player 1 won
+Player1 Pos : 100	Player2 Pos : 25
