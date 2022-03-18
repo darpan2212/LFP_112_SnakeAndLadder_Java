@@ -7,7 +7,8 @@ public class SnakeLadder {
 		System.out.println(
 				"Welcome to the game of Snake and ladder \n");
 
-		int position = 0;
+		int player1position = 0;
+		int player2position = 0;
 		final int NO_PLAY = 0;
 		final int LADDER = 1;
 		final int SNAKE = 2;
@@ -15,17 +16,21 @@ public class SnakeLadder {
 		final int DICE_START_RANGE = 1;
 		final int DICE_END_RANGE = 6 - DICE_START_RANGE;
 		int diceRollCount = 0;
+		String player1,player2;
 
 		System.out.println(
-				"Your current position is :" + position);
+				"player 1 position is :" + player1position+ "\n Player 2 position is "+player2position);
 
-		while (position != 100) {
+		String currentPlayer = "P1";
+		
+		while (player1position != 100 && player2position !=100 ) {
 			diceRollCount++;
 			int diceNumber = (int) Math
 					.floor(Math.random() * DICE_END_RANGE)
 					+ DICE_START_RANGE;
 			int option = (int) Math
 					.floor(Math.random() * 3);
+
 
 			System.out.println(
 					"You have got a Dice number of :"
